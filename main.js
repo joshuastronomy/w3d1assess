@@ -44,8 +44,8 @@ math = high - "5";
 // The answer shoud not be written in a comment.
 var born = 1984;
 var today = 2017;
-let age = today - born;
 // A:
+let age = "Tim is " + (today - born) + " years old";
 
 
 // 8.
